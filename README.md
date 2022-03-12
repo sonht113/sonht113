@@ -1,4 +1,4 @@
-<p align="center">![93308-codeing-red](https://user-images.githubusercontent.com/70570118/158015827-2d3b6e8e-d794-4519-873f-0b79a207c5d1.gif)</p>
+<a href="" align="center">![93308-codeing-red](https://user-images.githubusercontent.com/70570118/158015827-2d3b6e8e-d794-4519-873f-0b79a207c5d1.gif)</a>
 
 
 <h1 align="center">Hi 👋, I'm Trong Son.</h1>
