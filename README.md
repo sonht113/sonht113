@@ -1,4 +1,4 @@
-<a href="#" align="center">![67017-code-animation](https://user-images.githubusercontent.com/70570118/158015606-ac0d123a-2209-498f-9c9e-3eda281b6099.gif)</a>
+<p align="center">![56922-code-typing-concept](https://user-images.githubusercontent.com/70570118/158015738-b989c7a1-8615-4d54-aa02-ab49580ea0ca.gif)</p>
 
 
 <h1 align="center">Hi 👋, I'm Trong Son.</h1>
