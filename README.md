@@ -1,6 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="64" height="64"![Uploading 93308-codeing-red.gif…]()
+![93308-codeing-red](https://user-images.githubusercontent.com/70570118/158015438-ec87ec19-0c72-4a98-9352-6786bf168198.gif)
 
 <h1 align="center">Hi 👋, I'm Trong Son.</h1>
 <h3 align="center">You can call me is Jason. I'm a freelancer frontend developer from Viet Nam.</h3>
