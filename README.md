@@ -1,4 +1,4 @@
-<a href="#">![93308-codeing-red](https://user-images.githubusercontent.com/70570118/158015438-ec87ec19-0c72-4a98-9352-6786bf168198.gif)</a>
+<a href="#" align="center">![93308-codeing-red](https://user-images.githubusercontent.com/70570118/158015438-ec87ec19-0c72-4a98-9352-6786bf168198.gif)</a>
 
 
 <h1 align="center">Hi 👋, I'm Trong Son.</h1>
