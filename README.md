@@ -1,5 +1,6 @@
-<p align="center">![56922-code-typing-concept](https://user-images.githubusercontent.com/70570118/158015738-b989c7a1-8615-4d54-aa02-ab49580ea0ca.gif)</p>
+<p align="center"></p>
 
+![56922-code-typing-concept](https://user-images.githubusercontent.com/70570118/158015774-656b4de3-9b57-4843-a206-63d9c9c58a1f.gif)
 
 <h1 align="center">Hi 👋, I'm Trong Son.</h1>
 <h3 align="center">You can call me is Jason. I'm a freelancer frontend developer from Viet Nam.</h3>
