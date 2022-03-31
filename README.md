@@ -66,11 +66,6 @@
 </p>
 <br />
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonht113&show_icons=true&locale=en&layout=compact" alt="sonht113" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonht113&show_icons=true&locale=en" alt="sonht113" /></p>
-
 ## 📊 **Github Stats**
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -84,9 +79,9 @@
   <br/>
   </p>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b style="font-size: 20px">⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/sonht113"><img alt="Jason's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sonht113&custom_title=Jason's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-<h2 align="center"><i>Created by @Jason on March 11th, 2022<i></h2>
+<h2 align="center"><i>Created by @Jason on March 31th, 2022<i></h2>
