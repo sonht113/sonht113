@@ -54,5 +54,4 @@
 
 ## Snake eating contributor
 ![snake gif](https://github.com/sonht113/sonht113/blob/output/github-contribution-grid-snake.gif)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <h2 align="center"><i>Created by @Jason on March 31th, 2022<i></h2>
