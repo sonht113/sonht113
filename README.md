@@ -41,10 +41,10 @@
   <br/>
   </p>
 
-  <!-- <summary><b style="font-size: 20px">⚡ Recent GitHub Activity</b></summary>
+  <summary><b style="font-size: 20px">⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/sonht113"><img alt="Jason's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sonht113&custom_title=Jason's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/> -->
+  <br/>
 
   <div align="left">
   <a href="https://github.com/sonht113">
