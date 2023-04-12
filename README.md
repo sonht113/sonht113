@@ -31,16 +31,6 @@
   &nbsp;	  
   <br/>
   </p>
-
-  <summary><b style="font-size: 20px">⚡ Recent GitHub Activity</b></summary>
-<!--   <br/>
-   <a href="https://github.com/sonht113"><img alt="Jason's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sonht113&custom_title=Jason's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/> -->
-
-  <div align="left">
-  <a href="https://github.com/sonht113">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonht113&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonht113&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
      
 ![Snake animation](https://github.com/sonht113/sonht113/blob/output/github-contribution-grid-snake.svg)
