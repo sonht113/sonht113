@@ -24,8 +24,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p>
-     <a href="https://github.com/sonht113"><img alt="Jason's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonht113&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
-     <img alt="Jason's GitHub Profile Summary" src="https://github-readme-streak-stats.herokuapp.com/?user=sonht113&theme=dark&hide_border=false&show_icons=true&count_private=true" height="192px"/>
+ <img width="300" alt="Jason's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonht113&show_icons=true&count_private=true&theme=radical" />
+     <img width="300" alt="Jason's GitHub Profile Summary" src="https://github-readme-streak-stats.herokuapp.com/?user=sonht113&theme=dark&hide_border=false&show_icons=true&count_private=true" height="192px"/>
 <!--     <img alt="Jason's GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonht113&theme=default"/> -->
 <br/>
   &nbsp;	  
