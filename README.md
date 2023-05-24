@@ -33,7 +33,7 @@
   </div>
 </div>
      
-![Snake animation](https://github.com/sonht113/sonht113/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/sonht113/sonht113/blob/output/github-contribution-grid-snake.svg) -->
      
 <!-- <h2 align="center"><i>Created by @Jason on March 31th, 2022<i></h2> -->
  -->
