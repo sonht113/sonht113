@@ -1,4 +1,4 @@
-<!--  <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
 <h1 align="center">Hi, I'm Trọng Sơn.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline"></h1></h1> 
 <h3 align="center">You can call me is Jason. I'm a freelancer fullstack developer from Viet Nam.</h3>
@@ -26,7 +26,7 @@
   <div display="flex" align="center">
     <img width="500" alt="Jason's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonht113&show_icons=true&count_private=true&theme=radical" />
      <img width="500" alt="Jason's GitHub Profile Summary" src="https://github-readme-streak-stats.herokuapp.com/?user=sonht113&theme=dark&hide_border=false&show_icons=true&count_private=true" height="192px"/>
-<!--     <img alt="Jason's GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonht113&theme=default"/> -->
+<img alt="Jason's GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonht113&theme=default"/>
 <br/>
   &nbsp;	  
   <br/>
