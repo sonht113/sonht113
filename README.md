@@ -19,9 +19,9 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/> </a></p>
 <br />
 
-## 📊 **Github Stats**
+<!-- ## 📊 **Github Stats** -->
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <!-- <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <div display="flex" align="center">
     <img width="500" alt="Jason's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonht113&show_icons=true&count_private=true&theme=radical" />
@@ -30,7 +30,7 @@
 <br/>
   &nbsp;	  
   <br/>
-  </div>
+  </div> -->
 </div>
      
 <!-- ![Snake animation](https://github.com/sonht113/sonht113/blob/output/github-contribution-grid-snake.svg) -->
