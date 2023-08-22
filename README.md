@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
 <h1 align="center">Hi, I'm Trọng Sơn.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline"></h1></h1> 
-<h3 align="center">You can call me is Jason. I'm a freelancer fullstack developer from Viet Nam.</h3>
+<!-- <h3 align="center">You can call me is Jason. I'm a freelancer fullstack developer from Viet Nam.</h3> -->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## 🤳**My social media information** 👇
