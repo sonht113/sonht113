@@ -1,36 +1,81 @@
 <h1 align="center">Hi, I'm Trọng Sơn.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline"></h1></h1> 
-<!-- <h3 align="center">You can call me is Jason. I'm a freelancer fullstack developer from Viet Nam.</h3> -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
 
-## 🤳**My social media information** 👇
+<div align="center">
+  <img src="./public/bg.png" width="300px" />
+</div>
 
+```typescript
+ const TrongSon = {
+  name: "Ho Trong Son",
+  age: 23,
+  email: "hotrongsonit@gmail.com"
+  pronouns: "he/him",
+  hobbies: ["volleyball", "programming", "music", "romantic film"],
+  programminLanguages: ["Javascript", "Typescript"]
+ } as const
+```
+
+## ✍️ **Contact me:** 💬
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tr%E1%BB%8Dng-s%C6%A1n-h%E1%BB%93-635742285/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jason42875495)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100032736788526)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trongson_99/)
-[![Facebook](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonht113)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sonht113/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonht113)
 ![Profile View](https://komarev.com/ghpvc/?username=sonht113&color=blue&style=for-the-badge)
 
-<g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g><path d="M147.00625,129.80625h-122.0125c-3.09063,0 -5.50937,-2.41875 -5.50937,-5.50938v-98.63125c0,-3.09063 2.41875,-5.50937 5.50937,-5.50937h122.0125c3.09063,0 5.50938,2.41875 5.50938,5.50937v98.63125c0,3.09063 -2.41875,5.50938 -5.50938,5.50938z" fill="#f1c40f"></path><path d="M86,114.35313c-2.37482,0 -4.3,1.92518 -4.3,4.3c0,2.37482 1.92518,4.3 4.3,4.3c2.37482,0 4.3,-1.92518 4.3,-4.3c0,-2.37482 -1.92518,-4.3 -4.3,-4.3zM19.48438,107.76875v-82.10312c0,-3.09063 2.41875,-5.50937 5.50938,-5.50937h122.0125c3.09063,0 5.50938,2.41875 5.50938,5.50937v82.10312z" fill="#ffffff"></path><path d="M118.65313,39.64063c-4.3,0 -7.79375,3.49375 -7.79375,7.79375c0,2.15 0.80625,4.16563 2.28437,5.50938l-12.3625,18.67813c-0.94062,-0.40313 -1.88125,-0.5375 -2.95625,-0.5375c-1.6125,0 -3.09063,0.5375 -4.3,1.34375l-10.07812,-10.07812c0.80625,-1.20938 1.34375,-2.6875 1.34375,-4.3c0,-4.3 -3.49375,-7.79375 -7.79375,-7.79375c-4.3,0 -7.79375,3.49375 -7.79375,7.79375c0,1.6125 0.5375,3.09062 1.34375,4.3l-10.07812,10.07812c-1.20938,-0.80625 -2.6875,-1.34375 -4.3,-1.34375c-4.3,0 -7.79375,3.49375 -7.79375,7.79375c0,4.3 3.49375,7.79375 7.79375,7.79375c4.3,0 7.79375,-3.49375 7.79375,-7.79375c0,-1.6125 -0.5375,-3.09062 -1.34375,-4.3l9.94375,-10.07812c1.20937,0.80625 2.6875,1.34375 4.3,1.34375c1.6125,0 3.09063,-0.5375 4.3,-1.34375l10.07813,10.07813c-0.80625,1.20937 -1.34375,2.6875 -1.34375,4.3c0,4.3 3.49375,7.79375 7.79375,7.79375c4.3,0 7.79375,-3.49375 7.79375,-7.79375c0,-2.15 -0.80625,-4.16562 -2.28437,-5.50937l12.3625,-18.54375c0.94062,0.40312 1.88125,0.5375 2.95625,0.5375c4.3,0 7.79375,-3.49375 7.79375,-7.79375c0.26875,-4.43438 -3.225,-7.92813 -7.65937,-7.92813z" fill="#f1c0c3"></path><path d="M105.35,151.84375h-38.7l5.64375,-21.90312h27.4125z" fill="#f1c40f"></path><path d="M105.35,155.875h-38.7c-1.20938,0 -2.41875,-0.5375 -3.225,-1.6125c-0.80625,-0.94062 -1.075,-2.28437 -0.67187,-3.49375l2.82187,-11.15313c0.5375,-2.15 2.6875,-3.49375 4.8375,-2.95625c2.15,0.5375 3.49375,2.6875 2.95625,4.8375l-1.6125,6.18125h28.21875l-1.6125,-6.18125c-0.5375,-2.15 0.80625,-4.3 2.95625,-4.8375c2.15,-0.5375 4.3,0.80625 4.8375,2.95625l2.82187,11.15313c0.26875,1.20937 0,2.55312 -0.67187,3.49375c-0.5375,0.94063 -1.74687,1.6125 -2.95625,1.6125z" fill="#454b54"></path><path d="M119.59375,155.875h-67.1875c-2.28438,0 -4.03125,-1.74687 -4.03125,-4.03125c0,-2.28438 1.74687,-4.03125 4.03125,-4.03125h67.1875c2.28437,0 4.03125,1.74687 4.03125,4.03125c0,2.28438 -1.74688,4.03125 -4.03125,4.03125zM152.51563,111.8h-133.03125c-2.28438,0 -4.03125,-1.74687 -4.03125,-4.03125c0,-2.28437 1.74687,-4.03125 4.03125,-4.03125h133.03125c2.28438,0 4.03125,1.74688 4.03125,4.03125c0,2.28438 -1.74687,4.03125 -4.03125,4.03125z" fill="#454b54"></path><path d="M147.00625,133.8375h-122.0125c-5.24063,0 -9.54062,-4.3 -9.54062,-9.54063v-98.63125c0,-5.24063 4.3,-9.54062 9.54063,-9.54062h122.0125c5.24063,0 9.54063,4.3 9.54063,9.54062v98.63125c0,5.375 -4.3,9.54063 -9.54063,9.54063zM24.99375,24.1875c-0.80625,0 -1.47813,0.67188 -1.47813,1.47813v98.63125c0,0.80625 0.67188,1.47812 1.47813,1.47812h122.0125c0.80625,0 1.47813,-0.67187 1.47813,-1.47812v-98.63125c0,-0.80625 -0.67187,-1.47813 -1.47813,-1.47813z" fill="#454b54"></path></g></g>
+## 🔭 **Languages - Packages - Library - Framework:** 💻
 
-<h3 align="left" style="font-weight: 700; text-transform: uppercase">🔭 Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/> </a></p>
-<br />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ANT DESIGN](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![REACT QUERY](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
+![NEXTJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NODEJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NESTJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![VUE](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-<!-- ## 📊 **Github Stats** -->
+## ♻️ **Linter:** ✅
+
+![](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)
+![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+
+## 🔭 **Other:** 💻
+
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![NEOVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GRAPHQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![VITE](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![PRISMA](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<!-- ## 📊 **Github Stats** 💻 -->
 
   <!-- <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <div display="flex" align="center">
-    <img width="500" alt="Jason's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonht113&show_icons=true&count_private=true&theme=radical" />
-     <img width="500" alt="Jason's GitHub Profile Summary" src="https://github-readme-streak-stats.herokuapp.com/?user=sonht113&theme=dark&hide_border=false&show_icons=true&count_private=true" height="192px"/>
-<img alt="Jason's GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonht113&theme=default"/>
-<br/>
-  &nbsp;	  
-  <br/>
-  </div> -->
+    <img width="500" alt="Jason's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonht113&show_icons=true&count_private=true&theme=radical" /> 
+    <img width="500" alt="Jason's GitHub Profile Summary" src="https://github-readme-streak-stats.herokuapp.com/?user=sonht113&theme=dark&hide_border=false&show_icons=true&count_private=true" height="192px"/>
+    <img alt="Jason's GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonht113&theme=default"/>
+    <br/>
+    &nbsp;	  
+    <br/>
+  </div>
 </div>
      
-<!-- ![Snake animation](https://github.com/sonht113/sonht113/blob/output/github-contribution-grid-snake.svg) -->
+[Snake animation](https://github.com/sonht113/sonht113/blob/output/github-contribution-grid-snake.svg)
      
-<!-- <h2 align="center"><i>Created by @Jason on March 31th, 2022<i></h2> -->
+<h2 align="center"><i>Created by @Jason on March 31th, 2022<i></h2> -->
