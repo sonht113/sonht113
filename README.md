@@ -9,7 +9,7 @@
  const TrongSon = {
   name: "Ho Trong Son",
   age: 23,
-  email: "hotrongsonit@gmail.com"
+  email: "hotrongsonit@gmail.com",
   pronouns: "he/him",
   hobbies: ["volleyball", "programming", "music", "romantic film"],
   programminLanguages: ["Javascript", "Typescript"]
