@@ -8,7 +8,7 @@
 ```typescript
  const TrongSon = {
   name: "Ho Trong Son",
-  age: 23,
+  age: 24,
   email: "hotrongsonit@gmail.com",
   pronouns: "he/him",
   hobbies: ["volleyball", "programming", "music", "romantic film"],
