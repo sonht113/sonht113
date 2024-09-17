@@ -11,7 +11,7 @@
   age: 24,
   email: "hotrongsonit@gmail.com",
   pronouns: "he/him",
-  hobbies: ["volleyball", "programming", "music", "romantic film"],
+  hobbies: ["volleyball", "programming", "music", "romantic film", "gym"],
   programmingLanguages: ["Javascript", "Typescript"]
  } as const
 ```
