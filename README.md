@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Trọng Sơn.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline"></h1></h1> 
+<h1 align="center">Hi, I'm Trọng Sơn ( NúiCoder ).<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline"></h1></h1> 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
 
 <div align="center">
