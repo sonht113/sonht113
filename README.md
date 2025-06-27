@@ -8,7 +8,8 @@
 ```typescript
  const TrongSon = {
   name: "Ho Trong Son",
-  age: 25,
+  nickname: "NuiCoder",
+  age: 26,
   email: "hotrongsonit@gmail.com",
   pronouns: "he/him",
   hobbies: ["volleyball", "programming", "music", "romantic film", "gym"],
@@ -43,6 +44,14 @@
 ![EXPRESS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NESTJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![VUE](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![SVELTE](https://img.shields.io/badge/Svelte-FFFFFF?style=for-the-badge&logo=svelte&logoColor=E34F26)
+![ELECTRON](https://img.shields.io/badge/Electron-FFFFFF?style=for-the-badge&logo=electron&logoColor=593D88)
+
+## ♻️ **Test:** ✅
+![Mocha](https://img.shields.io/badge/mocha-1A2C34?style=for-the-badge&logo=mocha&logoColor=F7BA3E)
+![Sinon.JS](https://img.shields.io/badge/sinon.js-1A2C34?style=for-the-badge&logo=sinonjs&logoColor=F7BA3E)
+![Vitest](https://img.shields.io/badge/vitest-B73BFE?style=for-the-badge&logo=vitest&logoColor=FFD62E)
+![Cypress](https://img.shields.io/badge/cypress-339933?style=for-the-badge&logo=cypress&logoColor=FFD62E)
 
 ## ♻️ **Linter:** ✅
 
