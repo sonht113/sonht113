@@ -9,7 +9,7 @@
  const TrongSon = {
   name: "Ho Trong Son",
   nickname: "NuiCoder",
-  age: 26,
+  age: 27,
   email: "hotrongsonit@gmail.com",
   pronouns: "he/him",
   hobbies: ["volleyball", "programming", "music", "romantic film", "gym"],
